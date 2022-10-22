@@ -1,0 +1,5 @@
+{
+  "sql-file": true,
+  "configFile": "./database.json",
+  "table": "new_migration_table_name"
+}
